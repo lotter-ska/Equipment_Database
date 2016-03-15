@@ -1,0 +1,7 @@
+21 November 2013,,A,B,C,,,,
+,,Long Inside,Outside Chamber,Short Inside (LNA),Combination Files,Single Cable File,Single Cable File,Single Cable File
+Cable 1,ESIB-40 Rx Cable,1,1,0,CableLoss_Houwteq_1a_1b.csv,CableLoss_Houwteq_1a.csv,CableLoss_Houwteq_1b.csv,CableLoss_Houwteq_1c.csv
+Cable 2,Industry Rx Cable,1,1,1,CableLoss_Houwteq_2a_2b_2c.csv,CableLoss_Houwteq_2a.csv,CableLoss_Houwteq_2b.csv,CableLoss_Houwteq_2c.csv
+Cable 3,Spare Rx Cable,0,0,0,x,CableLoss_Houwteq_3a.csv,CableLoss_Houwteq_3b.csv,CableLoss_Houwteq_3c.csv
+Cable 4,Houwteq Tx Cable,,,,,,,
+Cable 5,SKA RC Rx Semi-Rigid,1,1,0,CableLoss_Pinelands_5a_5b.csv,x,x,x
